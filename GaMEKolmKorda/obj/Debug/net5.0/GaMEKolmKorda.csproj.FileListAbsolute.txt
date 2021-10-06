@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\bin\Debug\net5.0\GaMEKolmKorda.exe
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\bin\Debug\net5.0\GaMEKolmKorda.deps.json
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\bin\Debug\net5.0\GaMEKolmKorda.runtimeconfig.json
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\bin\Debug\net5.0\GaMEKolmKorda.runtimeconfig.dev.json
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\bin\Debug\net5.0\GaMEKolmKorda.dll
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\bin\Debug\net5.0\ref\GaMEKolmKorda.dll
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\bin\Debug\net5.0\GaMEKolmKorda.pdb
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\obj\Debug\net5.0\GaMEKolmKorda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\obj\Debug\net5.0\GaMEKolmKorda.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\obj\Debug\net5.0\GaMEKolmKorda.AssemblyInfo.cs
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\obj\Debug\net5.0\GaMEKolmKorda.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\obj\Debug\net5.0\GaMEKolmKorda.dll
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\obj\Debug\net5.0\ref\GaMEKolmKorda.dll
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\obj\Debug\net5.0\GaMEKolmKorda.pdb
+C:\Users\user\source\repos\LoopRandom\GaMEKolmKorda\obj\Debug\net5.0\GaMEKolmKorda.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\obj\Debug\net5.0\PINinFLooP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\obj\Debug\net5.0\PINinFLooP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\obj\Debug\net5.0\PINinFLooP.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\obj\Debug\net5.0\PINinFLooP.AssemblyInfo.cs
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\obj\Debug\net5.0\PINinFLooP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\bin\Debug\net5.0\PINinFLooP.exe
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\bin\Debug\net5.0\PINinFLooP.deps.json
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\bin\Debug\net5.0\PINinFLooP.runtimeconfig.json
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\bin\Debug\net5.0\PINinFLooP.runtimeconfig.dev.json
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\bin\Debug\net5.0\PINinFLooP.dll
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\bin\Debug\net5.0\ref\PINinFLooP.dll
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\bin\Debug\net5.0\PINinFLooP.pdb
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\obj\Debug\net5.0\PINinFLooP.dll
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\obj\Debug\net5.0\ref\PINinFLooP.dll
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\obj\Debug\net5.0\PINinFLooP.pdb
+C:\Users\user\source\repos\LoopRandom\PINinFLooP\obj\Debug\net5.0\PINinFLooP.genruntimeconfig.cache

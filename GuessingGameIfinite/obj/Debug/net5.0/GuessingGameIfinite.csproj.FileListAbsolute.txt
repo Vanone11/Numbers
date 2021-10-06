@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\bin\Debug\net5.0\GuessingGameIfinite.exe
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\bin\Debug\net5.0\GuessingGameIfinite.deps.json
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\bin\Debug\net5.0\GuessingGameIfinite.runtimeconfig.json
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\bin\Debug\net5.0\GuessingGameIfinite.runtimeconfig.dev.json
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\bin\Debug\net5.0\GuessingGameIfinite.dll
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\bin\Debug\net5.0\ref\GuessingGameIfinite.dll
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\bin\Debug\net5.0\GuessingGameIfinite.pdb
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\obj\Debug\net5.0\GuessingGameIfinite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\obj\Debug\net5.0\GuessingGameIfinite.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\obj\Debug\net5.0\GuessingGameIfinite.AssemblyInfo.cs
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\obj\Debug\net5.0\GuessingGameIfinite.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\obj\Debug\net5.0\GuessingGameIfinite.dll
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\obj\Debug\net5.0\ref\GuessingGameIfinite.dll
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\obj\Debug\net5.0\GuessingGameIfinite.pdb
+C:\Users\user\source\repos\LoopRandom\GuessingGameIfinite\obj\Debug\net5.0\GuessingGameIfinite.genruntimeconfig.cache
